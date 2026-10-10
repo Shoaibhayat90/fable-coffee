@@ -1,0 +1,23 @@
+# Fable Coffee Roasters
+
+Fable Coffee Roasters is a fictional specialty coffee brand concept from Calgary, Alberta, Canada — built as a portfolio demonstration of premium "websites with soul" web design by Rani AI (raniaiservices.com). It is a concept demo, not a real roastery.
+
+## Products
+
+Four fictional coffees, sold in CAD through a Shopify-powered cart (checkout at a04y0g-pb.myshopify.com):
+
+- **Chapter One** — Signature Espresso Blend — $24 CAD — Chocolate · Brown sugar · Orange zest
+- **Plot Twist** — Ethiopia Single Origin — $26 CAD — Jasmine · Bergamot · Apricot
+- **Slow Burn** — Dark Roast — $23 CAD — Molasses · Black cherry · Smoke
+- **Daydream** — Colombia Medium Roast — $22 CAD — Caramel · Red apple · Cocoa nib
+
+Free standard shipping within Canada on orders over $60 CAD.
+
+## Contact
+
+shoaib.hayyat@gmail.com
+
+## About this site
+
+Single-page storefront: https://shoaibhayat90.github.io/fable-coffee/
+Sections: hero chapters, shop (#shop), story (#story), brew guides (#guides), reviews (#reviews), newsletter signup.

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shoaibhayat90.github.io/fable-coffee/sitemap.xml
